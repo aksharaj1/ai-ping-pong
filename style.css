@@ -1,0 +1,32 @@
+.heading{
+    width: 100%;
+    text-align: left;
+
+}
+
+.heading h3{
+    padding: 5px;
+    background-color: goldenrod;
+}
+
+#play_game{
+    font-size: 22px;
+}
+
+.heading button{
+    float: right;
+}
+
+.restart{
+    background-color: purple;
+}
+
+.footer{
+    background-color: blueviolet;
+    line-height: 2;
+    bottom: 0px;
+}
+
+.instructions{
+    color: black;
+}
